@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Inbox-Widget</title>
+</head>
+<body>
+  <h1>Inbox-Widget</h1>
+
+  <p>
+    Inbox-Widget is a desktop application that allows users to
+    aggregate and view messages from Gmail and other platforms
+    in a unified interface.
+  </p>
+
+  <h2>Google API Usage</h2>
+  <p>
+    Inbox-Widget uses Google OAuth to securely access Gmail data
+    only after explicit user authorization.
+  </p>
+
+  <p>
+    We do not sell user data.
+  </p>
+
+  <p>
+    <a href="privacy_policy.pdf">Privacy Policy</a><br>
+    <a href="terms_of_service.pdf">Terms of Service</a>
+  </p>
+
+  <p>
+    Contact: your@email.com
+  </p>
+</body>
+</html>
